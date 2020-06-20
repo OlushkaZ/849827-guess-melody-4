@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`snapshot app 1`] = `
+exports[`Render App 1`] = `
 <section
   className="welcome"
 >
@@ -16,6 +16,7 @@ exports[`snapshot app 1`] = `
   </div>
   <button
     className="welcome__button"
+    onClick={[Function]}
   >
     <span
       className="visually-hidden"
@@ -41,7 +42,7 @@ exports[`snapshot app 1`] = `
     </li>
     <li>
       Можно допустить 
-      4
+      3
        ошибки.
     </li>
   </ul>
